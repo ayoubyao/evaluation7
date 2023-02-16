@@ -42,7 +42,7 @@
                   <div class="form-check d-flex justify-content-center mb-5">
                     
                     <label class="form-check-label" for="form2Example3">
-                      Je n'ai pas de compte <a href="#!">Cree un compte</a>
+                      Je n'ai pas de compte <a href="evaluation7\src\front\pages\inscription\inscription.php">Cree un compte</a>
                     </label>
                   </div>
 
@@ -55,8 +55,7 @@
               </div>
               <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
 
-                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
-                  class="img-fluid" alt="Sample image">
+              <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp" class="img-fluid" alt="Sample image">
 
               </div>
             </div>

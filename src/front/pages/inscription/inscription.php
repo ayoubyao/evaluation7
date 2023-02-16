@@ -11,7 +11,7 @@
 
 <body>
 
-    <button type="button" class="btn btn-danger btn-lg btn-block"><a href="recruteur.html">RECRUTEUR</a></button>
+    <button type="button" class="btn btn-danger btn-lg btn-block"><a href="/inscription/">RECRUTEUR</a></button>
     <button type="button" class="btn btn-secondary btn-lg btn-block"><a href="candidat.html">CANDIDAT</a></button>
 
 </body>

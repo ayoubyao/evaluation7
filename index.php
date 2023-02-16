@@ -6,8 +6,8 @@ switch ($request) {
     case '/evaluation7/' :
         require __DIR__ . '/src/front/pages/connexion.php';
         break;
-    case '' :
-        require __DIR__ . '/views/index.php';
+    case '/evaluation7/inscription/' :
+        require __DIR__ . '/src/front/pages/candidat/candidat.html';
         break;
     case '/candidats' :
         require __DIR__ . '/views/about.php';
