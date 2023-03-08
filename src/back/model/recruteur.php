@@ -1,4 +1,5 @@
 <?php
+<?php
 
 class Recruteur extends Utilisateur{
     public $idRecruteur;

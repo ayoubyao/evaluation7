@@ -1,0 +1,15 @@
+{
+    "name": "admin/evaluation7",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Evaluation7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayoub",
+            "email": "ayoubyao1210@gmail.com"
+        }
+    ],
+    "require": {}
+}
