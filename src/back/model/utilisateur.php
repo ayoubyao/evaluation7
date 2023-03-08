@@ -1,5 +1,4 @@
 <?php
-<?php
 
 class Utilisateur {
     public $username;
